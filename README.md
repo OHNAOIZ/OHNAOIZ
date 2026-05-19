@@ -1,7 +1,1 @@
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ae62d369-1d81-4779-8076-faffb0982064" />
-
-
-
-im lit the color pink btw
-
-(bmf plz ok im out)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0b782ug3xbyhyjudnt2zybn6p&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=df8bb4&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=0b782ug3xbyhyjudnt2zybn6p&redirect=true)
